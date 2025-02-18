@@ -1,4 +1,6 @@
 // DOM Elements
+//cambio de prueba
+//oOOOOOOOOOOOOOooooo
 const redSlider = document.getElementById('red');
 const greenSlider = document.getElementById('green');
 const blueSlider = document.getElementById('blue');

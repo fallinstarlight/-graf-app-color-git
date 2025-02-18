@@ -5,6 +5,9 @@ body.bg-gradient {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+
+/*Otro cambio sin importancia*/
+
 /* Glassmorphism card */
 .color-picker-card {
     background: rgba(255, 255, 255, 0.15);
@@ -42,7 +45,6 @@ body.bg-gradient {
 
 /* Sliders */
 input[type="range"] {
-    -webkit-appearance: none;
     height: 10px;
     border-radius: 8px;
     background: #ccc;
@@ -83,7 +85,6 @@ input[type="number"] {
 /* Heading gradient */
 .text-gradient {
     background: linear-gradient(45deg, #ff9a9e, #fad0c4);
-    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     font-size: 2rem;
 }
